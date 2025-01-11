@@ -44,6 +44,9 @@ public class Word
 	
 	
 	//write the toString method
+	public String toString()
+	{
+        return(Value);
 
 	
 }
